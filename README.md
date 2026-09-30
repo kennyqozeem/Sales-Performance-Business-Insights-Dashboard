@@ -160,4 +160,4 @@ Senior Business Analyst | Data Analytics | Business Intelligence
 
 I am passionate about transforming raw data into meaningful insights, building analytical solutions, and helping organisations make better business decisions through data.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/kehinde-kazeem-adelakin-660166119/) or explore. my other analytics projects on GitHub.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kehinde-kazeem-adelakin-660166119/) or explore. my other analytics projects on GitHub.
